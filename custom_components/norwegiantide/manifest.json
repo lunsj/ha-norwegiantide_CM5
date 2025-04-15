@@ -1,15 +1,10 @@
 {
   "domain": "norwegiantide",
   "name": "Norwegian Tide (CM5 Fork)",
-  "version": "v0.2.2-cm5",
+  "version": "v0.2.3-cm5",
   "documentation": "https://github.com/lunsj/ha-norwegiantide_CM5",
   "dependencies": [],
-  "codeowners": [
-    "@lunsj"
-  ],
-  "requirements": [
-    "Pillow>=8.1.0",
-    "matplotlib>=3.3.3",
-    "numpy>=1.21.6"
-  ]
+  "codeowners": ["@lunsj"],
+  "requirements": [],
+  "iot_class": "local_polling"
 }
