@@ -1,7 +1,7 @@
 {
   "domain": "norwegiantide",
   "name": "Norwegian Tide (CM5 Fork)",
-  "version": "0.2.2-cm5",
+  "version": "v0.2.2-cm5",
   "documentation": "https://github.com/lunsj/ha-norwegiantide_CM5",
   "dependencies": [],
   "codeowners": [
