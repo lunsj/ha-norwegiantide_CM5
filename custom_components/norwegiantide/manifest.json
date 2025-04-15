@@ -1,13 +1,15 @@
 {
   "domain": "norwegiantide",
-  "name": "Norwegian Tide",
-  "version": "0.2.2",
-  "documentation": "https://github.com/tmjo/ha-norwegiantide",
-  "issue_tracker": "https://github.com/tmjo/ha-norwegiantide/issues",
+  "name": "Norwegian Tide (CM5 Fork)",
+  "version": "0.2.2-cm5",
+  "documentation": "https://github.com/lunsj/ha-norwegiantide_CM5",
   "dependencies": [],
-  "config_flow": true,
   "codeowners": [
-    "@tmjo"
+    "@lunsj"
   ],
-  "requirements": ["Pillow>=8.1.0", "matplotlib>=3.3.3","numpy>=1.21.6"]
+  "requirements": [
+    "Pillow>=8.1.0",
+    "matplotlib>=3.3.3",
+    "numpy>=1.21.6"
+  ]
 }
